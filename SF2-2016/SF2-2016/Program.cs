@@ -17,7 +17,9 @@ namespace SF2_2016
 
             Console.WriteLine("Dobrodosli u salon "+ s1.Naziv);
             Console.WriteLine("1. Izlistaj sav namesaj");
-            //Nastaviti
+            Console.WriteLine("2. Unos novog namestaja");
+            Console.WriteLine("3. Izlistaj sav namesaj");
+            Console.WriteLine("4. Brisanje namestaja");
         }
     }
 }

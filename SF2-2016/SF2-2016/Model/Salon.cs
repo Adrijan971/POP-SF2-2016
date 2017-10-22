@@ -11,7 +11,11 @@ namespace SF2_2016.Model
     public int Id { get; set; }
     public string Naziv { get; set; }
     public string Adresa { get; set; }
-    public string { get; set; }
-    //    zavrsiti ovo kod kuce
+    public string Telefon { get; set; }
+    public string Email { get; set; }
+    public string AdresaSajta { get; set; }
+    public int PIB { get; set; }
+    public int MaticniBroj { get; set; }
+    public int BrojZiroRacuna { get; set; }
     }
 }

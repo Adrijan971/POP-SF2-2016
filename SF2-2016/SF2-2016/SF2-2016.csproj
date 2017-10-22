@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Funkcije\BrisanjeNamestaja.cs" />
+    <Compile Include="Funkcije\IzmenaNamestaja.cs" />
+    <Compile Include="Funkcije\PrikazNamestaja.cs" />
+    <Compile Include="Funkcije\Ucitavanje-Cuvanje.cs" />
     <Compile Include="Model\Akcija.cs" />
     <Compile Include="Model\DodatneUsluge.cs" />
     <Compile Include="Model\Korisnik.cs" />
@@ -56,6 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Funkcije\Fajlovi\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
