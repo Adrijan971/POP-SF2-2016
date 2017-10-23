@@ -10,7 +10,7 @@ namespace SF2_2016.Funkcije
     {
         public void UcitavanjeIzFajla() {
 
-            string[] linije = System.IO.File.ReadAllLines(@"C:\Users\Public\TestFolder\WriteLines2.txt");
+            string[] linije = System.IO.File.ReadAllLines("..\\Fajlovi\\");
         }
 
     }

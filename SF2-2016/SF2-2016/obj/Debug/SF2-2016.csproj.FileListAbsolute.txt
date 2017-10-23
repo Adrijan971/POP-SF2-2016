@@ -4,3 +4,10 @@ C:\Users\TEMP.FTN.009\Desktop\POP\POP-SF2-2016\SF2-2016\SF2-2016\bin\Debug\SF2-2
 C:\Users\TEMP.FTN.009\Desktop\POP\POP-SF2-2016\SF2-2016\SF2-2016\bin\Debug\SF2-2016.pdb
 C:\Users\TEMP.FTN.009\Desktop\POP\POP-SF2-2016\SF2-2016\SF2-2016\obj\Debug\SF2-2016.exe
 C:\Users\TEMP.FTN.009\Desktop\POP\POP-SF2-2016\SF2-2016\SF2-2016\obj\Debug\SF2-2016.pdb
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\obj\Debug\SF2-2016.csprojResolveAssemblyReference.cache
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\obj\Debug\SF2-2016.csproj.CoreCompileInputs.cache
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\obj\Debug\SF2-2016.exe
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\obj\Debug\SF2-2016.pdb
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\bin\Debug\SF2-2016.exe.config
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\bin\Debug\SF2-2016.exe
+C:\Users\sf2-2016\Desktop\Projekat POP\POP-SF2-2016\SF2-2016\SF2-2016\bin\Debug\SF2-2016.pdb

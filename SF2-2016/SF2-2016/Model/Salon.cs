@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace SF2_2016.Model
 {
+    [Serializable]
+
     public class Salon
     {
     public int Id { get; set; }
@@ -16,6 +18,14 @@ namespace SF2_2016.Model
     public string AdresaSajta { get; set; }
     public int PIB { get; set; }
     public int MaticniBroj { get; set; }
-    public int BrojZiroRacuna { get; set; }
+    public string BrojZiroRacuna { get; set; }
+
+    public void Save()
+        {
+
+
+
+
+        }
     }
 }
