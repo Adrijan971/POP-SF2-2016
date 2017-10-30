@@ -1,0 +1,7 @@
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\obj\Debug\testiranje.csproj.CoreCompileInputs.cache
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\bin\Debug\testiranje.exe.config
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\bin\Debug\testiranje.exe
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\bin\Debug\testiranje.pdb
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\obj\Debug\testiranje.exe
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\obj\Debug\testiranje.pdb
+C:\Users\Adrijan\Desktop\POPProjekat\POP-SF2-2016\SF2-2016\testiranje\obj\Debug\testiranje.csprojResolveAssemblyReference.cache

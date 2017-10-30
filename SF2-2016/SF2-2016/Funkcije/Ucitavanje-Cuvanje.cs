@@ -1,16 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace SF2_2016.Funkcije
 {
     class Ucitavanje_Cuvanje
     {
-        public void UcitavanjeIzFajla() {
+        public void UcitavanjeIzFajla(tip,lista) {
 
-            string[] linije = System.IO.File.ReadAllLines("..\\Fajlovi\\");
+            XmlSerializer serializer = new XmlSerializer(typeof());
+            TextWriter writer = new StreamWriter(lokacija);
+            serializer.Serialize(writer, ime_liste);
+            writer.Close();
         }
 
     }
